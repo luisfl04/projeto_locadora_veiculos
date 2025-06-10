@@ -1,0 +1,7 @@
+Implementação da EAP -> 
+Listagem de todas as atividades -> 
+Atribuição de equipe as atividades -> 
+Estimar o esforço das atividades(Tempo e recurso) -> 
+Cronograma com priorização de atividades -> 
+Termo de abertura de projeto -> 
+Documento com listagem de requisitos funcionais e não funcionais -> 
