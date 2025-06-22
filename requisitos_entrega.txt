@@ -1,7 +1,33 @@
 Implementação da EAP -> 
-Listagem de todas as atividades -> 
+
+Listagem de todas as atividades de acordo com as entregas da EAP -> 
+
 Atribuição de equipe as atividades -> 
+
 Estimar o esforço das atividades(Tempo e recurso) -> 
+
 Cronograma com priorização de atividades -> 
+
 Termo de abertura de projeto -> 
+
 Documento com listagem de requisitos funcionais e não funcionais -> 
+
+Equipe de desenvolvimento:
+Vitor Lucas -> Design e UX.
+Gilvan -> Dev Sênior
+Marcio -> Dev Pleno
+João Victor -> Dev Pleno
+Guilherme -> Dev júnior
+Vitor Emanuel -> Dev Júnior
+
+
+Numero de atividades -> 28
+
+Orçamento -> 200,000,00
+	1 - 30,000
+	2 - 30,000
+	3 - 30,000
+	4 - 30,000
+	5 - 30,000
+	6 - 20,000
+	7 - 20,000
